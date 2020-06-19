@@ -9,10 +9,10 @@ i3 or above Processor is required
 Good Internet Connectivity
 Microphone and Speakers facility for Offline training program.
 ### Duration :
-36 Hours (3 hours each day X 12 days)
+36 Hours (2 hours each day X 18 days)
 
 
-## FDP Syllabus :
+## Workshop Syllabus :
 
        1. Introduction to Mobile App Development
        2. History of Mobile evolution
