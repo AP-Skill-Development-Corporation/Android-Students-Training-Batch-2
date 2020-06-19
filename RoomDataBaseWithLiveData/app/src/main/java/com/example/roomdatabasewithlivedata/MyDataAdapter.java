@@ -39,7 +39,7 @@ public class MyDataAdapter extends RecyclerView.Adapter<MyDataAdapter.DataViewHo
         holder.delete.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                MainActivity.database.myDao().delete(list);
+                MainActivity.viewModel.delete(list);
             }
         });
 

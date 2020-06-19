@@ -33,7 +33,7 @@ public class InsertActivity extends AppCompatActivity {
         student.setMobileNUmber(phone);
         student.setRollNumber(roll);
 
-        MainActivity.database.myDao().insert(student);
+        MainActivity.viewModel.insert(student);
 
         finish();
     }
